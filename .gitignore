@@ -1,0 +1,3 @@
+# Project exclude paths
+/JavaWeb/web/WEB-INF/classes/
+/out/
